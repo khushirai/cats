@@ -1,0 +1,15 @@
+.navbar {
+    height: 65px;
+    background-color: #212121;
+    padding: 0 47px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.navbar .nav-link{
+display: inline;
+color: red;
+font-size: 35px;
+font-weight: 450;
+text-decoration: none;
+}
+

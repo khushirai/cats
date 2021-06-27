@@ -1,0 +1,12 @@
+.card {
+    width: 20rem;
+    margin: 2rem;
+}
+  
+.image-grid-container {
+    display: flex;
+}
+
+img {
+    width: 100%;
+}
